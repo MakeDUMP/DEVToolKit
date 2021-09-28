@@ -7,5 +7,5 @@
 
 ### DEVToolKit-Libs 3.0
 - **Windows x64:** MSVC 14.28.29910, WinKit 10.0.19041.0, Boost 1.76.0
-- **Linux x64:** musl 1.2.2, libgcc 10.3.1, Boost 1.76.0
-- **Linux ARM32:** musl 1.2.2, libgcc 10.3.1, Boost 1.76.0
+- **Linux x64:** musl 1.2.2, libc++ 12.0.1, Boost 1.76.0
+- **Linux ARM32:** musl 1.2.2, libc++ 12.0.1, Boost 1.76.0
