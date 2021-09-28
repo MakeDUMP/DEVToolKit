@@ -1,21 +1,11 @@
 # Cross-platform development utilities
 
-### DEVToolKit-Cross 2.1 for Linux x64
-- **Clang** 12.0.0
-- **CMake** 3.20.1
+### DEVToolKit 3.0 for Linux/Windows x64
+- **Clang** 13.0.0-rc3
+- **CMake** 3.21.3
 - **Ninja** 1.10.2
-- **Windows Libs:** MSVC 14.28.29910, WinKit 10.0.19041.0, Boost 1.76.0
-- **Linux Libs:** musl 1.2.2, libgcc 10.3.1, Boost 1.76.0
-- **Linux ARM Libs:** musl 1.2.2, libgcc 10.3.1, Boost 1.76.0
 
-### DEVToolKit-Cross 2.1 for Windows x64
-- **Clang** 12.0.0
-- **CMake** 3.20.1
-- **Git** 2.30.2
-- **Ninja** 1.10.2
-- **Windows Libs:** MSVC 14.28.29910, WinKit 10.0.19041.0, Boost 1.76.0
-- **Linux Libs:** musl 1.2.2, libgcc 10.3.1, Boost 1.76.0
-- **Linux ARM Libs:** musl 1.2.2, libgcc 10.3.1, Boost 1.76.0
-- Jom 1.1.3
-- Python 3.9.2
-- Perl 5.3.2
+### DEVToolKit-Libs 3.0
+- **Windows x64:** MSVC 14.28.29910, WinKit 10.0.19041.0, Boost 1.76.0
+- **Linux x64:** musl 1.2.2, libgcc 10.3.1, Boost 1.76.0
+- **Linux ARM32:** musl 1.2.2, libgcc 10.3.1, Boost 1.76.0
